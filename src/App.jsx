@@ -2,7 +2,7 @@ import "./App.css"
 
 const App = () => {
   const brandName = "BSDK Vikas";
-  const warning = "This site is incomplete plese wait till it completes!"
+  const warning = "This site is incomplete plaese wait till it completes!"
   document.title = brandName;
   return (
     <div>

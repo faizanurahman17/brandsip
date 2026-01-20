@@ -22,4 +22,7 @@ body {
 }
 .warning{
   color: red;
+   display: flex;
+  justify-content: center;
+  align-items: center;
 }
