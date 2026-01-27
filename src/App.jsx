@@ -2,7 +2,7 @@ import "./App.css"
 
 const App = () => {
   const brandName = "Brand Sip | brandsip.site";
-  const warning = "This site is incomplete plaese wait till it completes sorry for your inconvenient!"
+  const warning = "This website is incomplete; please wait for it to be completed. We apologize for the inconvenience!"
   document.title = brandName;
   return (
     <div>
