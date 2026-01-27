@@ -1,13 +1,12 @@
 import "./App.css"
 
 const App = () => {
-  const brandName = "BSDK Vikas";
-  const warning = "This site is incomplete plaese wait till it completes!"
+  const brandName = "Brand Sip | brandsip.site";
+  const warning = "This site is incomplete plaese wait till it completes sorry for your inconvenient!"
   document.title = brandName;
   return (
     <div>
-      <p className="brandName">{brandName}</p>
-      <p className="warning">{warning}</p>
+      {warning}
     </div>
   )
 }

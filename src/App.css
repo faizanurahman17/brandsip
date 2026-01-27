@@ -7,22 +7,3 @@ body {
   justify-content: center;
   align-items: center;
 }
-.brandName {
-  padding: 10px;
-  font-size: 4rem;
-  font-weight: 900;
-  font-family: 'monospace';
-  width: 400px;
-  height: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 10% 50% 10% 50%;
-  background: radial-gradient(#04fff282,#c188ff9a,#00b7ff5c,#22f4cd7e);
-}
-.warning{
-  color: red;
-   display: flex;
-  justify-content: center;
-  align-items: center;
-}
